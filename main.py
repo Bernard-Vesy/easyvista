@@ -15,4 +15,4 @@ response = client.service.GetServiceRequests(User=username, Password=password)
 
 # Affichage des résultats
 for request in response.ServiceRequests:
-    print(f"ID: {request.ID}, Title: {request.Title}, Status: {request.Status}")
+    print("ID: {request.ID}, Title: {request.Title}, Status: {request.Status}")
