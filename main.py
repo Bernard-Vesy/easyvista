@@ -25,7 +25,7 @@ COMPANY_ACCOUNT = '40000'
 
 # Données pour ouvrir une session
 #username = "bvesy@lemo.com"
-#password = "Koala74-74-74"
+#password = ""
 #domain = ""  # Peut-être facultatif selon EasyVista
 
 
