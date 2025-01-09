@@ -17,18 +17,8 @@ client = Client(wsdl=wsdl)
 # Authentification
 SESSION_ID= ''
 LOGIN       = 'bvesy@lemo.com'
-PASSWORD    ='Koala74-74-74'
+PASSWORD    =''
 COMPANY_ACCOUNT = '40000'
-
-#username = 'bvesy@lemo.com'
-#password = 'Koala74-74-74'
-
-# Données pour ouvrir une session
-#username = "bvesy@lemo.com"
-#password = "Koala74-74-74"
-#domain = ""  # Peut-être facultatif selon EasyVista
-
-
 
 # Appel de la méthode
 
