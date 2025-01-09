@@ -16,7 +16,9 @@ client = Client(wsdl=wsdl)
 
 # Authentification
 SESSION_ID= ''
-LOGIN       = 'bvesy@lemo.com'
+#LOGIN       = 'bvesy@lemo.com'
+
+LOGIN       = 'fleblanc'
 PASSWORD    =''
 COMPANY_ACCOUNT = '40000'
 
