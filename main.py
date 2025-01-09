@@ -1,14 +1,14 @@
 from zeep import Client
 
 # URL du WSDL
-wsdl = 'https://your-instance.easyvista.com/EasyVista/api.svc?wsdl'
+wsdl = 'https://itsupport.lemo.com/WebService/SmoBridge.php?wsdl'
 
 # Initialisation du client SOAP
 client = Client(wsdl=wsdl)
 
 # Authentification
-username = 'your_username'
-password = 'your_password'
+username = 'bvesy@lemo.com'
+password = 'Koala74-74-74'
 
 # Appel de la méthode
 response = client.service.GetServiceRequests(User=username, Password=password)
